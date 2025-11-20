@@ -1,2 +1,5 @@
-# ibdthebrand
-Ongoing UI/UX Website Project for IBD The Brand - Images and Videos haven't been uploaded yet.
+Incomplete code
+Still working on it
+No links attatched to images and divs
+Site unfunctional
+Meant to be a blog.
